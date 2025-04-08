@@ -8,7 +8,8 @@ $ mvn package
 
 Execute...
 
-$ java -jar davidtam-akvtool-1.0-all.jar 
+$ java -jar davidtam-akvtool-1.0-all.jar
+
 4 arguments needed:  AKV_URL, clientID, clientSecret, and tenantID
 
 Get Service Principal info using az cli (would not reveal client secret)...
